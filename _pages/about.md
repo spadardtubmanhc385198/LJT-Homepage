@@ -61,7 +61,7 @@ Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, *
 Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He<br>
 *NeurIPS 2023*
 
-You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate), or browse them on the [publications page](/LJT-Homepage/publications/).
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate), or browse them on the [publications page]({{ site.baseurl }}/publications/).
 
 ## Skills
 
